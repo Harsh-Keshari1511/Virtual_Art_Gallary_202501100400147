@@ -1,5 +1,4 @@
 # 🎨 Virtual Art Gallery
-hi
 This project is a **simple HTML-only website** that showcases a collection of artworks.  
 It is created as part of an assignment with the constraint of using only **basic HTML tags (no CSS, no JavaScript)**.
 
